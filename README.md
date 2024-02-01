@@ -1,6 +1,6 @@
-![SumOS logo](./logo.png)
-
 # SumOS
+
+![SumOS logo](./logo.png)
 Some OS with a sumos sum logo.
 
 At the very beginning.  
